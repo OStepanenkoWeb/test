@@ -1,3 +1,3 @@
 const custom = {
-    name: 'test'
+    name: 'name'
 }
