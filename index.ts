@@ -1,0 +1,3 @@
+const custom = {
+    name: 'test'
+}
