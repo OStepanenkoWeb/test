@@ -1,3 +1,4 @@
 const custom = {
-    name: 'name'
+    name: 'name',
+    age: 'age',
 }
