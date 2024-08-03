@@ -3,3 +3,7 @@ const custom = {
     age: 'age',
     feature: 'feature'
 }
+
+const user = {
+    name: 'name',
+}
